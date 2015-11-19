@@ -26,4 +26,4 @@ The experience obtained from coding.
     abcd
 
     ```
-    Input maybe implemented with a queue. Input to a queue, <enter> or <ctrl+d> as an end. Then the queue is poped to the program.
+    **Solution**: Input maybe implemented with a queue. Input to a queue, <enter> or <ctrl+d> as an end. Then the queue is poped to the program. <enter> is in the queue, but <ctrl+d> is not in the queue. Only when <ctrl+d> works as EOF when it is single.    
