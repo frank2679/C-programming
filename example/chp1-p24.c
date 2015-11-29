@@ -12,7 +12,7 @@ main(){
         ndigit[i] = 0;
 
     while((c = getchar()) != EOF){
-        if(c > '0' && c < '9')
+        if(c >= '0' && c <= '9')
             ndigit[c-'0']++;       // COOL
         else if (c == ' '|| c == '\t' || c == '\n')
             nwhite++;
