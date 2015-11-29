@@ -1,4 +1,5 @@
 /* counting of character, line and word
+ * count blank, tabs
  * frank
  * 2015.11.19
  */
